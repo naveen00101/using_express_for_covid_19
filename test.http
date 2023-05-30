@@ -1,0 +1,10 @@
+
+
+
+GET http://localhost:3001/states/
+###
+
+GET http://localhost:3001/states/1
+###
+
+GET http://localhost:3001/districts/322
